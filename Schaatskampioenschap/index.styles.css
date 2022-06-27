@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(241, 240, 225);
+}
+
+h1 {
+    color: blue;
+}
+
+.winnaar {
+    font-size: x-large;
+    color:rgb(51, 94, 16);
+}
+
+table {
+    width: 400px;
+    height: 400px;
+}
+
+caption {
+    background-color: rgb(169, 168, 168);
+}
+
+
+th {
+    text-align: center;
+    background-color:rgb(194, 194, 229);
+}
+
+td {
+    text-align: center;
+    background-color: rgb(216, 224, 224);
+}

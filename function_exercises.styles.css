@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(241, 240, 225);
+}
+
+h1 {
+    color: blue;
+}
+
+caption {
+    background-color: rgb(169, 168, 168);
+}
+
+table {
+    width: 400px;
+    height: 400px;
+}
+
+th {
+    text-align: center;
+    background-color:rgb(194, 194, 229);
+}
+
+td.index {
+    background-color: rgb(188, 194, 177);
+}
+
+td {
+    text-align: center;
+    background-color: rgb(216, 224, 224);
+}
+
+table.primenumbers {
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+
+td.primenumberel {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
+
+td.primes {
+    background-color: green;
+}
+
+.vote {
+    font-weight: bold;
+    color: blue;
+}
